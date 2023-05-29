@@ -18,7 +18,6 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.generation.LojadeGames.model.Categoria;
 import com.generation.LojadeGames.model.Produtos;
 import com.generation.LojadeGames.repository.CategoriaRepository;
 import com.generation.LojadeGames.repository.ProdutosRepository;
